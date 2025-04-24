@@ -45,7 +45,7 @@
 </p>
 
 ### Built With
-![Alacritty](https://img.shields.io/badge/Alacritty-ffffff?logo=freedesktopdotorg&style=flat&color=777777&logoColor=ffffff)<br />
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=for-the-badge) <br />
 <!-- add_built_with -->
 
 
@@ -59,7 +59,7 @@
 <p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
 <ul>
-	<li>alacritty >= 0.14.0</li>
+    <li>alacritty >= 0.14.0</li>
     <!-- add_prerequisites -->
 </ul>
 
